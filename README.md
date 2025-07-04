@@ -8,7 +8,7 @@ Ce projet est un jeu de mémoire web développé par **Jérôme Bonkoungou**, o�
 - Rejouabilité avec un bouton
 
 ## 🚀 Démo en ligne
-👉 [Clique ici pour jouer](https://ton-nom.github.io/jeu-memoire/)
+👉 [Clique ici pour jouer](https://jerome-code.github.io/jeu-memoire/)
 
 ## 📁 Structure
 
